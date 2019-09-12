@@ -1,8 +1,8 @@
-# Install Dependencies
+### Install Dependencies
 ```
 npm install
 ```
-# Run Gulp Task
+### Run Gulp Task
 ```
 gulp
 ```
