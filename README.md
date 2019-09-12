@@ -1,2 +1,7 @@
 # gulp-task
-Minify assets
+```
+npm install
+```
+```
+gulp
+```
